@@ -1,3 +1,22 @@
+<h2>Development</h2>
+
+<h>LightGCN_1110.py</h>
+
+
+能够同时mixup多个samples，而且权重自适应分配。
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Requirements</h2>
 	
